@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+
+body {
+	background-color: #00FF00;
+	margin: 0;
+	padding: 0;
+}
+
+.img {
+	background-image: url("https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/21430103_1413772545405195_6219009574862702943_n.jpg?_nc_cat=0&oh=7992c5a752c302c89ac4571240601743&oe=5C378941");
+	background-size: 500px;
+	background-repeat: no-repeat;
+	background-position: left;
+	height: 300px;
+}
+
+h1 {
+	font-family: Lucida Console;
+	color: black;
+	background-color: white;
+}
+
+p {
+	font-family: cursive;
+	color: white;
+	background-color: black;
+}

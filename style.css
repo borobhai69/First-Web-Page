@@ -1,0 +1,72 @@
+@charset "ISO-8859-1";
+body {
+	background-color: red;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+h1 {
+  color: green;
+  font-size: 40px;
+  font-family: optima;
+  text-decoration: underline;
+  padding-top: 100px;
+  width: 100%;
+  text-align: center;
+}
+
+h2,
+.facts {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+  color: black;
+  background-color: white;
+  font-family: cursive;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 24px;
+  padding-bottom: 30px;
+  width: 70%;
+}
+
+p {
+  color: AliceBlue;
+  font-family: Helvetica;
+  line-height: 1.3em;
+  width: 100%;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.byline {
+  font-family: Trebuchet MS;
+  color: yellow;
+  float: left;
+  font-size: 20px;
+  padding-left: 10px;
+  text-transform: uppercase;
+}
+
+.content {
+  padding: 20px;
+}
+
+h1,
+h2 {
+  font-family: Georgia;
+}
+
+#caption {
+  font-family: 'Playfair Display', serif;
+  font-size: 14px;
+  font-style: italic;
+  line-height: 14px;
+  padding: 10px;
+  position: relative;
+  top: 50%;
+  width: 100%;
+  background-color: white;
+  color: black;
+  opacity: 0.75;
+  text-align: center;
+}
